@@ -1,0 +1,7 @@
+Meta tags are the tags which we use mainly for SEO purpose and these are the tags which gives the extra information about the information.
+
+<meta character = "UTF-8>
+
+Syntax:-
+
+<iframe src = "COPIED LINK & PASTE IT HERE"</iframe>
